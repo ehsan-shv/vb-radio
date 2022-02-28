@@ -4,7 +4,7 @@
 
 **Vue 3 radio input component.**
 
-> Support Vue3, Nuxt3 and type-safe.
+> Support Vue3, Nuxt3 and type-safe. [Demo](https://ehsan-shv.github.io/vb-radio/)
 
 ## Instalation
 
